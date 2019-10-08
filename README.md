@@ -1,24 +1,20 @@
-# README
+# Blog Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Follow along project
 
-Things you may want to cover:
+This is a follow along project from [this tutorial](http://tutorials.jumpstartlab.com/projects/blogger.html) as
+a part of [101 Web Development Course - Ruby On Rails Project](https://www.theodinproject.com/courses/web-development-101/lessons/ruby-on-rails?ref=lnav)
+from The Odin Project.
+
+It may be used later on as a foundation to create a personal/business blog.
+
+The objective of this project is to get used to rails application as well as REST
+model, CRUD and so on. It may, or may not, be updated in the future.
 
 * Ruby version
 
-* System dependencies
+      2.6.3
+      
+* Rails version
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+      6.0.0
