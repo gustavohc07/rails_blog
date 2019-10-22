@@ -18,3 +18,7 @@ model, CRUD and so on. It may, or may not, be updated in the future.
 * Rails version
 
       6.0.0
+      
+* Heroku
+
+        https://dashboard.heroku.com/apps/desolate-plateau-82134
